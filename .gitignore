@@ -1,0 +1,21 @@
+# Ortam değişkenleri
+.env
+
+# Streamlit gizli anahtar dosyaları
+.streamlit/secrets.toml
+
+# Görsel ve çıktı klasörleri
+figure/
+figures/
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter geçici dosyalar
+.ipynb_checkpoints/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
